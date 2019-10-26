@@ -1,0 +1,367 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MoneyMeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 650}}";
+			sepNavSelRange = "{537, 0}";
+			sepNavVisRange = "{0, 544}";
+			sepNavWindowFrame = "{{281, -324}, {976, 778}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MoneyMeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1503, 1157}}";
+			sepNavSelRange = "{2567, 0}";
+			sepNavVisRange = "{2234, 386}";
+			sepNavWindowFrame = "{{232, 0}, {976, 778}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MoneyMe */ = {
+		activeExec = 0;
+		executables = (
+			E5D42B0B1305845A00E3011F /* MoneyMe */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E5D42B0B1305845A00E3011F /* MoneyMe */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MoneyMe */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MoneyMe */,
+		);
+		codeSenseManager = E5D42B1D1305847500E3011F /* Code sense */;
+		executables = (
+			E5D42B0B1305845A00E3011F /* MoneyMe */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319208925;
+			PBXWorkspaceStateSaveDate = 319208925;
+		};
+		perUserProjectItems = {
+			E56660B813067F57008E6AA1 /* PBXTextBookmark */ = E56660B813067F57008E6AA1 /* PBXTextBookmark */;
+			E56660CB130680E0008E6AA1 /* PBXTextBookmark */ = E56660CB130680E0008E6AA1 /* PBXTextBookmark */;
+			E5A9FBED1306BEAB009CD1F7 /* PBXBookmark */ = E5A9FBED1306BEAB009CD1F7 /* PBXBookmark */;
+			E5A9FC021306C042009CD1F7 /* PBXBookmark */ = E5A9FC021306C042009CD1F7 /* PBXBookmark */;
+			E5A9FC331306D478009CD1F7 /* PBXBookmark */ = E5A9FC331306D478009CD1F7 /* PBXBookmark */;
+			E5A9FC42130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC42130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC43130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC43130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC44130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC44130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC45130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC45130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC46130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC46130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC47130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC47130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC48130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC48130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC4B130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC4B130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC4E130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC4E130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC4F130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC4F130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC52130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC52130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC53130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC53130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC56130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC56130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC59130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC59130714EE009CD1F7 /* PBXTextBookmark */;
+			E5A9FC5A130714EE009CD1F7 /* PBXTextBookmark */ = E5A9FC5A130714EE009CD1F7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E5D42B1C1305847500E3011F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MoneyMe_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {614, 228}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	E56660B813067F57008E6AA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MoneyMeAppDelegate.m */;
+		name = "MoneyMeAppDelegate.m: 80";
+		rLen = 0;
+		rLoc = 2567;
+		rType = 0;
+		vrLen = 386;
+		vrLoc = 2234;
+	};
+	E56660CB130680E0008E6AA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MoneyMeAppDelegate.h */;
+		name = "MoneyMeAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 0;
+	};
+	E5A9FBEA1306BEA9009CD1F7 /* User.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 650}}";
+			sepNavSelRange = "{260, 0}";
+			sepNavVisRange = "{0, 697}";
+			sepNavWindowFrame = "{{202, -91}, {976, 778}}";
+		};
+	};
+	E5A9FBEB1306BEA9009CD1F7 /* User.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {978, 650}}";
+			sepNavSelRange = "{590, 0}";
+			sepNavVisRange = "{0, 719}";
+			sepNavWindowFrame = "{{495, -92}, {976, 778}}";
+		};
+	};
+	E5A9FBED1306BEAB009CD1F7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E5A9FBEA1306BEA9009CD1F7 /* User.h */;
+	};
+	E5A9FC021306C042009CD1F7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E5A9FBEB1306BEA9009CD1F7 /* User.m */;
+	};
+	E5A9FC0B1306C72D009CD1F7 /* SingletonData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 650}}";
+			sepNavSelRange = "{310, 0}";
+			sepNavVisRange = "{0, 311}";
+			sepNavWindowFrame = "{{307, -1}, {976, 778}}";
+		};
+	};
+	E5A9FC0C1306C72D009CD1F7 /* SingletonData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 715}}";
+			sepNavSelRange = "{209, 0}";
+			sepNavVisRange = "{38, 704}";
+			sepNavWindowFrame = "{{486, 0}, {976, 778}}";
+		};
+	};
+	E5A9FC281306CC14009CD1F7 /* Budget.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 650}}";
+			sepNavSelRange = "{202, 0}";
+			sepNavVisRange = "{0, 469}";
+			sepNavWindowFrame = "{{369, -14}, {976, 778}}";
+		};
+	};
+	E5A9FC291306CC14009CD1F7 /* Budget.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {917, 650}}";
+			sepNavSelRange = "{268, 0}";
+			sepNavVisRange = "{0, 296}";
+			sepNavWindowFrame = "{{301, -194}, {976, 778}}";
+		};
+	};
+	E5A9FC331306D478009CD1F7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = E5A9FC291306CC14009CD1F7 /* Budget.m */;
+	};
+	E5A9FC42130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MoneyMe_Prefix.pch */;
+		name = "MoneyMe_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	E5A9FC43130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MoneyMeAppDelegate.h */;
+		name = "MoneyMeAppDelegate.h: 15";
+		rLen = 10;
+		rLoc = 326;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 40;
+	};
+	E5A9FC44130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FBEA1306BEA9009CD1F7 /* User.h */;
+		name = "User.h: 15";
+		rLen = 0;
+		rLoc = 215;
+		rType = 0;
+		vrLen = 259;
+		vrLoc = 0;
+	};
+	E5A9FC45130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FC0B1306C72D009CD1F7 /* SingletonData.h */;
+		name = "SingletonData.h: 10";
+		rLen = 0;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 311;
+		vrLoc = 0;
+	};
+	E5A9FC46130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FC281306CC14009CD1F7 /* Budget.h */;
+		name = "Budget.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 202;
+		vrLoc = 0;
+	};
+	E5A9FC47130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FBEB1306BEA9009CD1F7 /* User.m */;
+		name = "User.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 0;
+	};
+	E5A9FC48130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FBEB1306BEA9009CD1F7 /* User.m */;
+		name = "User.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 398;
+		vrLoc = 0;
+	};
+	E5A9FC4B130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FC291306CC14009CD1F7 /* Budget.m */;
+		name = "Budget.m: 20";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 296;
+		vrLoc = 0;
+	};
+	E5A9FC4E130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FC0B1306C72D009CD1F7 /* SingletonData.h */;
+		name = "SingletonData.h: 14";
+		rLen = 4;
+		rLoc = 231;
+		rType = 0;
+		vrLen = 311;
+		vrLoc = 0;
+	};
+	E5A9FC4F130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FC0B1306C72D009CD1F7 /* SingletonData.h */;
+		name = "SingletonData.h: 18";
+		rLen = 0;
+		rLoc = 310;
+		rType = 0;
+		vrLen = 311;
+		vrLoc = 0;
+	};
+	E5A9FC52130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FC0C1306C72D009CD1F7 /* SingletonData.m */;
+		name = "SingletonData.m: 14";
+		rLen = 0;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 38;
+	};
+	E5A9FC53130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FC0C1306C72D009CD1F7 /* SingletonData.m */;
+		name = "SingletonData.m: 14";
+		rLen = 0;
+		rLoc = 209;
+		rType = 0;
+		vrLen = 704;
+		vrLoc = 38;
+	};
+	E5A9FC56130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FBEB1306BEA9009CD1F7 /* User.m */;
+		name = "User.m: 28";
+		rLen = 0;
+		rLoc = 590;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 0;
+	};
+	E5A9FC59130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E5A9FBEA1306BEA9009CD1F7 /* User.h */;
+		name = "User.h: 19";
+		rLen = 0;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 697;
+		vrLoc = 0;
+	};
+	E5A9FC5A130714EE009CD1F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MoneyMeAppDelegate.h */;
+		name = "MoneyMeAppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 0;
+	};
+	E5D42B0B1305845A00E3011F /* MoneyMe */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MoneyMe;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E5D42B1C1305847500E3011F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E5D42B1D1305847500E3011F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

@@ -1,0 +1,11 @@
+In file included from /Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m:9:
+/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.h:10:17: error: User.h: No such file or directory
+In file included from /Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m:9:
+/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.h:14: error: expected specifier-qualifier-list before 'User'
+/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.h:16: error: expected specifier-qualifier-list before 'User'
+/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m:13: error: no declaration of property 'user' found in the interface
+/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m: In function '+[SingletonData object]':
+/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m:20: error: 'config' undeclared (first use in this function)
+/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m:20: error: (Each undeclared identifier is reported only once
+/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m:20: error: for each function it appears in.)
+/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m:27: warning: control reaches end of non-void function

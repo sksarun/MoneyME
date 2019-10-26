@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  MoneyMe
+
+  Created by Tong on 8/3/54 BE.
+  Copyright 2554 __MyCompanyName__. All rights reserved.
+*/
+
+
+"MainMenu_QuickPaid" = "เพิ่มรายจ่าย";
+"MainMenu_Transactions" = "เช็คยอดการใช้จ่าย";
+"MainMenu_Statistic"= "สถิติการใช้จ่าย";
+"MainMenu_Option" = "ตั้งค่า";
+
+"Board_Payment" = "รายละเอียดค่าใช้จ่าย";
+"Board_Payment_Today" = "Today's payment";
+"Board_Payment_Weelky" = "Weekly's payment";
+"Board_Payment_Monthly" = "Monthly's payment";
+"Board_Payment_Total" = "Total";
+
+
+"QuickPaid_CellTitle_Name" = "หัวข้อใช้จ่าย";
+"QuickPaid_CellTitle_Amount" = "จำนวน";
+"QuickPaid_CellTitle_PaidType" = "จ่ายโดย";
+"QuickPaid_CellTitle_PaymentType" = "ชนิดค่าใช้จ่าย";
+"QuickPaid_CellTitle_Date" = "วันที่";
+"QuickPaid_CellTitle_Desc" = "รายละเอียดค่าใช้จ่าย";
+
+"QuickName_Title" = "เพิ่มหัวข้อด่วน";
+"QuickName_CreateTitle" = "กรุณาใส่ชื่อหัวข้อที่ท่านใช้เป็นประจำ";
+"QuickName_ButtonAdd"= "เพิ่ม";
+
+"AddPaidType_Title" = "เพิ่มชนิด";
+"AddPaidType_CreateTitle" = "กรุณาเพิ่มชนิดของค่าใช้จ่าย";
+
+"DatePicker_SelectDate" = "เลือกวันที่";
+"DatePicker_Select" = "เลือก";
+
+"Transaction_AmountTitle" = "จำนวน";
+"Transaction_TypeTitle" = "ชนิด";
+"Transaction_PaymentTitle" = "จ่ายโดย";
+"Transaction_DateTitle" = "จ่ายเมื่อ";
+"Transaction_EditTitle" = "แก้ไข";
+"Transaction_SortTitle" = "เรียงค่าใช้จ่าย";
+"Transaction_Filter" = "ตัวกรอง";
+
+"Sort_Date" = "วันที่";
+"Sort_PriceLow" = "ราคาจาก (Low-High)";
+"Sort_PriceHigh" = "ราคาจาก (High-Low)";
+"Sort_Name" = "ชื่อ";
+
+"Filter_PaidType" = "ชนิดค่าใช้จ่าย";
+"Filter_Period" = "ช่วงเวลา";
+"Filter_Payment" = "ชนิดของการจ่าย";
+"Filter_TransName" = "ชื่อหัวข้อค่าใช้จ่าย";
+
+"Period_Today" = "วันนี้";
+"Period_Weekly"  = "สัปดาห์นี้";
+"Period_Monthly" = "เดือนนี้";
+"Period_Custom" = "เลือกช่วงเวลาเอง";
+"Period_Custom_Start" ="ช่วงเวลาเริ่มต้น";
+"Period_Custom_End" =  "ช่วงเวลาสิ้นสุด";
+
+"Payment_Cash" = "เงินสด";
+"Payment_CreditCard" = "บัตรเครดิต";
+
+"Currency_Title" = "ค่าเงิน";
+"DisplayBoard_Title" = "กระดานสถิติ";
+"About_Title" = "เกี่ยวกับ";
+"Account_Title" = "ผู้ใช้";
+
+"Common_Cancel" = "ยกเลิก";
+"Common_Done"   = "เสร็จ";

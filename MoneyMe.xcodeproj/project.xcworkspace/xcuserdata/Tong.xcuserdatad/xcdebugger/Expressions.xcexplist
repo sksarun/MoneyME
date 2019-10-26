@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MainViewController onSQLComplete:]:MainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(NSCFString *)(dpBoard)-&gt;sqlCommand">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,74 @@
+/* 
+  Localizable.strings
+  MoneyMe
+
+  Created by Tong on 8/3/54 BE.
+  Copyright 2554 __MyCompanyName__. All rights reserved.
+*/
+
+"MainMenu_QuickPaid" = "Quick Paid";
+"MainMenu_Transactions" = "Transaction";
+"MainMenu_Statistic"= "Statistics";
+"MainMenu_Option" = "Option";
+
+"Board_Payment" = "Payment details";
+"Board_Payment_Today" = "Today's payment";
+"Board_Payment_Weelky" = "Weekly's payment";
+"Board_Payment_Monthly" = "Monthly's payment";
+"Board_Payment_Total" = "Total";
+
+
+"QuickPaid_CellTitle_Name" = "Name";
+"QuickPaid_CellTitle_Amount" = "Amount";
+"QuickPaid_CellTitle_PaidType" = "Paid Type";
+"QuickPaid_CellTitle_PaymentType" = "Payment Type";
+"QuickPaid_CellTitle_Date" = "Date";
+"QuickPaid_CellTitle_Desc" = "Description (optional)";
+
+"QuickName_Title" = "Common paid";
+"QuickName_CreateTitle" = "Please fill common name";
+"QuickName_ButtonAdd"= "Add";
+
+"AddPaidType_Title" = "Add paid type";
+"AddPaidType_CreateTitle" = "Please fill up name for paid type";
+
+"DatePicker_SelectDate" = "Select date";
+"DatePicker_Select" = "Select";
+
+"Transaction_AmountTitle" = "Amount";
+"Transaction_TypeTitle" = "Type";
+"Transaction_PaymentTitle" = "Payment";
+"Transaction_DateTitle" = "Date";
+"Transaction_EditTitle" = "Edit";
+"Transaction_SortTitle" = "Sort";
+"Transaction_Filter" = "Filter";
+
+"Sort_Date" = "Date";
+"Sort_PriceLow" = "Price (Low-High)";
+"Sort_PriceHigh" = "Price (High-Low)";
+"Sort_Name" = "Name";
+
+"Filter_PaidType" = "Paid type";
+"Filter_Period" = "Period";
+"Filter_Payment" = "Payment type";
+"Filter_TransName" = "Transaction name";
+
+"Period_Today" = "Today";
+"Period_Weekly"  = "Weekly";
+"Period_Monthly" = "Monthly";
+"Period_Custom" = "Custom period";
+"Period_Custom_Start" ="Period start";
+"Period_Custom_End" =  "Period end";
+
+"Payment_Cash" = "Cash";
+"Payment_CreditCard" = "Credit card";
+
+"Currency_Title" = "Currency";
+"DisplayBoard_Title" = "Display board";
+"About_Title" = "About";
+"Account_Title" = "Account";
+
+"Common_Cancel" = "Cancel";
+"Common_Done"   = "Done";
+
+

@@ -1,0 +1,389 @@
+TMoneyMe
+v7
+r0
+t319192946.762653
+cCheck dependencies
+cProcessInfoPlistFile /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/Info.plist MoneyMe-Info.plist
+cCompileXIB /Users/Tong/Documents/MoneyMe/MainWindow.xib
+cCompileXIB /Users/Tong/Documents/MoneyMe/Classes/CreateViewController.xib
+cProcessPCH /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoneyMe_Prefix-ceizaaxanuomncbbzlfvwkjuokiz/MoneyMe_Prefix.pch.gch MoneyMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/main.o /Users/Tong/Documents/MoneyMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MoneyMeAppDelegate.o /Users/Tong/Documents/MoneyMe/Classes/MoneyMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/CreateViewController.o /Users/Tong/Documents/MoneyMe/Classes/CreateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe normal i386
+cGenerateDSYMFile /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app.dSYM /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe
+cTouch /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Tong/Documents/MoneyMe/Classes/CreateViewController.h
+c000000004D5647A60000000000000362
+t1297500070
+s866
+i<UIKit/UIKit.h>
+
+N/Users/Tong/Documents/MoneyMe/Classes/CreateViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Tong/Documents/MoneyMe/Classes/CreateViewController.xib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Tong/Documents/MoneyMe/Classes/MainViewController.h
+c000000004D56867500000000000000E0
+t1297516149
+s224
+i<UIKit/UIKit.h>
+
+N/Users/Tong/Documents/MoneyMe/Classes/MainViewController.m
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Tong/Documents/MoneyMe/Classes/MainViewController.xib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Tong/Documents/MoneyMe/Classes/MoneyMeAppDelegate.h
+c000000004D5647A50000000000000220
+t1297500069
+s544
+i<UIKit/UIKit.h>
+
+N/Users/Tong/Documents/MoneyMe/Classes/MoneyMeAppDelegate.m
+c000000004D5647C70000000000000A3C
+t1297500103
+s2620
+i"MoneyMeAppDelegate.h"
+
+N/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.h
+c000000004D5690700000000000000137
+t1297518704
+s311
+i<Foundation/Foundation.h>
+i"User.h"
+
+N/Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m
+c000000004D56907F00000000000002E6
+t1297518719
+s742
+i"SingletonData.h"
+
+N/Users/Tong/Documents/MoneyMe/Classes/Struct/Budget.h
+c000000004D569CEA00000000000001D5
+t1297521898
+s469
+i<Foundation/Foundation.h>
+
+N/Users/Tong/Documents/MoneyMe/Classes/Struct/Budget.m
+c000000004D569D2B0000000000000128
+t1297521963
+s296
+i"Budget.h"
+
+N/Users/Tong/Documents/MoneyMe/Classes/Struct/User.h
+c000000004D5689C200000000000002B9
+t1297516994
+s697
+i<Foundation/Foundation.h>
+
+N/Users/Tong/Documents/MoneyMe/Classes/Struct/User.m
+c000000004D5689AE00000000000002CF
+t1297516974
+s719
+i"User.h"
+
+N/Users/Tong/Documents/MoneyMe/Classes/View/CreateViewController.h
+c000000004D5647A60000000000000362
+t1297500070
+s866
+i<UIKit/UIKit.h>
+
+N/Users/Tong/Documents/MoneyMe/Classes/View/CreateViewController.m
+c000000004D5647D400000000000007C3
+t1297500116
+s1987
+i"CreateViewController.h"
+
+N/Users/Tong/Documents/MoneyMe/Classes/View/MainViewController.h
+c000000004D56867500000000000000E0
+t1297516149
+s224
+i<UIKit/UIKit.h>
+
+N/Users/Tong/Documents/MoneyMe/Classes/View/MainViewController.m
+c000000004D56867500000000000005A4
+t1297516149
+s1444
+i"MainViewController.h"
+
+N/Users/Tong/Documents/MoneyMe/Classes/xib/CreateViewController.xib
+c000000004D564679000000000000CB02
+t1297499769
+s51970
+
+N/Users/Tong/Documents/MoneyMe/Classes/xib/MainViewController.xib
+c000000004D5686750000000000001871
+t1297516149
+s6257
+
+N/Users/Tong/Documents/MoneyMe/MainWindow.xib
+c000000004D5647EF000000000000846A
+t1297500143
+s33898
+
+N/Users/Tong/Documents/MoneyMe/MoneyMe_Prefix.pch
+c000000004D554CDA00000000000000B7
+t1297435866
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app
+t1297500146
+s238
+
+N/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app.dSYM
+t1297500118
+s102
+
+N/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/CreateViewController.nib
+t1297500105
+s4997
+
+N/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/Info.plist
+t1297436078
+s591
+
+N/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MainViewController.nib
+t2
+s0
+
+N/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MainWindow.nib
+t1297500146
+s2012
+
+N/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe
+t1297500118
+s20348
+
+N/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/PkgInfo
+t1297436078
+s8
+
+N/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/Budget.o
+t2
+s0
+
+N/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/CreateViewController.o
+t1297500118
+s48508
+
+N/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MoneyMe.LinkFileList
+c000000004D5647C90000000000000171
+t1297500105
+s369
+
+N/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MoneyMeAppDelegate.o
+t1297500105
+s54696
+
+N/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/SingletonData.o
+t2
+s0
+
+N/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/User.o
+t2
+s0
+
+N/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/main.o
+t1297436080
+s6284
+
+N/Users/Tong/Documents/MoneyMe/main.m
+c000000004D554CDA0000000000000161
+t1297435866
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoneyMe_Prefix-ceizaaxanuomncbbzlfvwkjuokiz/MoneyMe_Prefix.pch.gch
+t1297436079
+s15453392
+
+NMoneyMe-Info.plist
+c000000004D554CDA000000000000038D
+t1297435866
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319192946#319192946#0(0"0(0#1#0"8611654208#0"0#
+
+CCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/Budget.o /Users/Tong/Documents/MoneyMe/Classes/Struct/Budget.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/CreateViewController.o /Users/Tong/Documents/MoneyMe/Classes/CreateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319192918.170702
+e319192918.335558
+r1
+xCompileC
+xbuild/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/CreateViewController.o
+x/Users/Tong/Documents/MoneyMe/Classes/CreateViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/Tong/Documents/MoneyMe/Classes/CreateViewController.m319192918#319192918#0(0"0(0#0#60"/Users/Tong/Documents/MoneyMe/Classes/CreateViewController.m8611701440#1855"    cd /Users/Tong/Documents/MoneyMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-generated-files.hmap -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-own-target-headers.hmap -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-all-target-headers.hmap -iquote /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-project-headers.hmap -F/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator -I/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/include -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/DerivedSources/i386 -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/DerivedSources -include /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoneyMe_Prefix-ceizaaxanuomncbbzlfvwkjuokiz/MoneyMe_Prefix.pch -c /Users/Tong/Documents/MoneyMe/Classes/CreateViewController.m -o /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/CreateViewController.o0#
+
+CCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/CreateViewController.o /Users/Tong/Documents/MoneyMe/Classes/View/CreateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MainViewController.o /Users/Tong/Documents/MoneyMe/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MainViewController.o /Users/Tong/Documents/MoneyMe/Classes/View/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MoneyMeAppDelegate.o /Users/Tong/Documents/MoneyMe/Classes/MoneyMeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319192905.688861
+e319192905.829759
+r1
+xCompileC
+xbuild/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MoneyMeAppDelegate.o
+x/Users/Tong/Documents/MoneyMe/Classes/MoneyMeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Tong/Documents/MoneyMe/Classes/MoneyMeAppDelegate.m319192905#319192905#0(0"0(0#0#58"/Users/Tong/Documents/MoneyMe/Classes/MoneyMeAppDelegate.m7299624047588887552#1851"    cd /Users/Tong/Documents/MoneyMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-generated-files.hmap -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-own-target-headers.hmap -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-all-target-headers.hmap -iquote /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-project-headers.hmap -F/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator -I/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/include -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/DerivedSources/i386 -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/DerivedSources -include /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoneyMe_Prefix-ceizaaxanuomncbbzlfvwkjuokiz/MoneyMe_Prefix.pch -c /Users/Tong/Documents/MoneyMe/Classes/MoneyMeAppDelegate.m -o /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MoneyMeAppDelegate.o0#
+
+CCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/SingletonData.o /Users/Tong/Documents/MoneyMe/Classes/Singleton/SingletonData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/User.o /Users/Tong/Documents/MoneyMe/Classes/Struct/User.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/main.o /Users/Tong/Documents/MoneyMe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319128880.137514
+e319128880.308387
+r1
+xCompileC
+xbuild/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/main.o
+x/Users/Tong/Documents/MoneyMe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/Tong/Documents/MoneyMe/main.m319128880#319128880#0(0"0(0#0#36"/Users/Tong/Documents/MoneyMe/main.m8612430464#1815"    cd /Users/Tong/Documents/MoneyMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-generated-files.hmap -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-own-target-headers.hmap -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-all-target-headers.hmap -iquote /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-project-headers.hmap -F/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator -I/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/include -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/DerivedSources/i386 -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/DerivedSources -include /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoneyMe_Prefix-ceizaaxanuomncbbzlfvwkjuokiz/MoneyMe_Prefix.pch -c /Users/Tong/Documents/MoneyMe/main.m -o /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Tong/Documents/MoneyMe/Classes/CreateViewController.xib
+s319192905.072456
+e319192905.688537
+r1
+xCompileXIB
+x/Users/Tong/Documents/MoneyMe/Classes/CreateViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@43"CompileXIB Classes/CreateViewController.xib319192905#319192905#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#62"/Users/Tong/Documents/MoneyMe/Classes/CreateViewController.xib8610799264#571"    cd /Users/Tong/Documents/MoneyMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/CreateViewController.nib /Users/Tong/Documents/MoneyMe/Classes/CreateViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Tong/Documents/MoneyMe/Classes/MainViewController.xib
+r0
+
+CCompileXIB /Users/Tong/Documents/MoneyMe/Classes/xib/CreateViewController.xib
+r0
+
+CCompileXIB /Users/Tong/Documents/MoneyMe/Classes/xib/MainViewController.xib
+r0
+
+CCompileXIB /Users/Tong/Documents/MoneyMe/MainWindow.xib
+s319192946.303490
+e319192946.759114
+r1
+xCompileXIB
+x/Users/Tong/Documents/MoneyMe/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319192946#319192946#0(0"0(0#0#44"/Users/Tong/Documents/MoneyMe/MainWindow.xib8611428128#543"    cd /Users/Tong/Documents/MoneyMe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MainWindow.nib /Users/Tong/Documents/MoneyMe/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app.dSYM /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe
+s319192918.712846
+e319192918.760090
+r1
+xGenerateDSYMFile
+x/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app.dSYM
+x/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/MoneyMe.app.dSYM build/Debug-iphonesimulator/MoneyMe.app/MoneyMe319192918#319192918#0(0"0(0#0#77"/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe8612067296#356"    cd /Users/Tong/Documents/MoneyMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe -o /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app.dSYM0#
+
+CLd /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe normal i386
+s319192918.335643
+e319192918.712740
+r1
+xLd
+x/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe
+xnormal
+xi386
+lSLF07#2@82"Link /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe319192918#319192918#0(0"0(0#0#0"8615672352#855"    cd /Users/Tong/Documents/MoneyMe    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator -F/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator -filelist /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/Objects-normal/i386/MoneyMe.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/MoneyMe0#
+
+CProcessInfoPlistFile /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/Info.plist MoneyMe-Info.plist
+s319128878.554284
+e319128878.580106
+r1
+xProcessInfoPlistFile
+x/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/Info.plist
+xMoneyMe-Info.plist
+lSLF07#2@26"Process MoneyMe-Info.plist319128878#319128878#0(0"0(0#0#48"/Users/Tong/Documents/MoneyMe/MoneyMe-Info.plist32651513917341812#452"    cd /Users/Tong/Documents/MoneyMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MoneyMe-Info.plist -genpkginfo /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app/Info.plist0#
+
+CProcessPCH /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoneyMe_Prefix-ceizaaxanuomncbbzlfvwkjuokiz/MoneyMe_Prefix.pch.gch MoneyMe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319128879.021443
+e319128880.137328
+r1
+xProcessPCH
+x/var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoneyMe_Prefix-ceizaaxanuomncbbzlfvwkjuokiz/MoneyMe_Prefix.pch.gch
+xMoneyMe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MoneyMe_Prefix.pch319128879#319128880#0(0"0(0#0#48"/Users/Tong/Documents/MoneyMe/MoneyMe_Prefix.pch8610592800#1716"    cd /Users/Tong/Documents/MoneyMe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-generated-files.hmap -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-own-target-headers.hmap -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-all-target-headers.hmap -iquote /Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/MoneyMe-project-headers.hmap -F/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator -I/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/include -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/DerivedSources/i386 -I/Users/Tong/Documents/MoneyMe/build/MoneyMe.build/Debug-iphonesimulator/MoneyMe.build/DerivedSources -c /Users/Tong/Documents/MoneyMe/MoneyMe_Prefix.pch -o /var/folders/jC/jC6briycEYaqrk-O81Vj7E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MoneyMe_Prefix-ceizaaxanuomncbbzlfvwkjuokiz/MoneyMe_Prefix.pch.gch0#
+
+CTouch /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app
+s319192946.759629
+e319192946.762616
+r1
+xTouch
+x/Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app
+lSLF07#2@75"Touch /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app319192946#319192946#0(0"0(0#0#0"8612300768#260"    cd /Users/Tong/Documents/MoneyMe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Tong/Documents/MoneyMe/build/Debug-iphonesimulator/MoneyMe.app0#
+
